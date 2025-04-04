@@ -1,5 +1,3 @@
-# diabetes-medical-cost-prediction
-
 # 🧠 Diabetes Medical Cost Prediction
 
 당뇨 보유자의 2019년 의료비 지출을 예측하는 머신러닝 기반 프로젝트입니다.  
